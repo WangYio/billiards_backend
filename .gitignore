@@ -36,6 +36,8 @@ venv/
 .venv/
 env/
 venv/
+wangyio
+wangyio.pub
 
 # IDE
 .idea/
